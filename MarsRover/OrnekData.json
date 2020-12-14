@@ -1,0 +1,9 @@
+{
+  "FirstParameter": "5 5",
+  "SecondParameter": "1 2 N",
+  "ThirdParameter": "LMLMLMLMM",
+  "FourthParameter": "3 3 E",
+  "FifthParameter": "MMRMMRMRRM"
+}
+// Url Adres https://localhost:44336/api/Rover/SendRover 
+ 

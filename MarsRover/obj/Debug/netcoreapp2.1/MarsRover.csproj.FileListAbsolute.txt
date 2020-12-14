@@ -1,0 +1,47 @@
+D:\Projects\Mars Rover\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.deps.json
+D:\Projects\Mars Rover\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.runtimeconfig.json
+D:\Projects\Mars Rover\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.runtimeconfig.dev.json
+D:\Projects\Mars Rover\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.dll
+D:\Projects\Mars Rover\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.pdb
+D:\Projects\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.csprojAssemblyReference.cache
+D:\Projects\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.csproj.CoreCompileInputs.cache
+D:\Projects\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.RazorAssemblyInfo.cache
+D:\Projects\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.RazorAssemblyInfo.cs
+D:\Projects\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.AssemblyInfoInputs.cache
+D:\Projects\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.AssemblyInfo.cs
+D:\Projects\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.RazorTargetAssemblyInfo.cache
+D:\Projects\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.dll
+D:\Projects\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.pdb
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.deps.json
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.runtimeconfig.json
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.runtimeconfig.dev.json
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.dll
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.pdb
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.RazorAssemblyInfo.cache
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.RazorAssemblyInfo.cs
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.AssemblyInfoInputs.cache
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.AssemblyInfo.cs
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.RazorTargetAssemblyInfo.cache
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.dll
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.pdb
+C:\Users\ahmet.a\Desktop\Mars Rover\MarsRover\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.csprojAssemblyReference.cache
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\bin\Debug\netcoreapp2.1\OrnekData.json
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.deps.json
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.runtimeconfig.json
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.runtimeconfig.dev.json
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.dll
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\bin\Debug\netcoreapp2.1\MarsRover.pdb
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.csprojAssemblyReference.cache
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.AssemblyInfoInputs.cache
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.AssemblyInfo.cs
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.RazorAssemblyInfo.cache
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.RazorAssemblyInfo.cs
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.RazorTargetAssemblyInfo.cache
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.dll
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.pdb
+C:\Users\melis\Desktop\Mars-Rover-master\MarsRover\obj\Debug\netcoreapp2.1\MarsRover.genruntimeconfig.cache
